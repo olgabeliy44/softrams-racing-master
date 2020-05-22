@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "jobTitle": "Driver",
+      "team": "Formula 1 - Car 77",
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "firstName": "Alex",
+      "lastName": "Sainz",
+      "jobTitle": "Driver",
+      "team": "Formula 1 - Car 8",
+      "status": "Active"
+    },
+    {
+      "id": 3,
+      "firstName": "Jeb",
+      "lastName": "Jackson",
+      "jobTitle": "Reserve Driver",
+      "team": "Formula 1 - Car 77",
+      "status": "Inactive"
+    }
+  ]
